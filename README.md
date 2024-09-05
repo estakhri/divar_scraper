@@ -85,3 +85,7 @@ The scraped data is saved in a CSV file with the following columns:
 ## License
 
 This project is licensed under the MIT License.
+
+## Contact
+
+Please feel free to get in touch with me -> nimaestakhri@gmail.com
